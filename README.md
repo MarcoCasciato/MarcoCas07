@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MarcoCas07
+- 👀 I’m interested in Hardware
+- 🌱 I’m currently learning Javascript. I want to use it for work and to create own plugins for Minecraft :)
